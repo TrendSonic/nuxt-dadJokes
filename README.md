@@ -1,5 +1,5 @@
 # dadJokes
-
+Small dadJokes app for practicing Nuxt skills
 ## Build Setup
 
 ```bash
